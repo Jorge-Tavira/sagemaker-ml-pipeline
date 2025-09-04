@@ -3,7 +3,7 @@
 I'm specializing in building and deploying scalable, responsible, and production-ready AI applications on AWS, with a strong focus on AI Agents and Information Retrieval Systems.
 
 ---
-## 🚀 Skills in Development
+## 🦾 Skills in Development
 
 **Prompt Engineering & RAG:** Building search systems that combine information retrieval with text generation.
 
