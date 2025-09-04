@@ -1,4 +1,4 @@
-# Sagemaker Machine Learning Pipeline 🤖🤖
+# Sagemaker Machine Learning Pipeline 🤖
 
 I'm specializing in building and deploying scalable, responsible, and production-ready AI applications on AWS, with a strong focus on AI Agents and Information Retrieval Systems.
 
