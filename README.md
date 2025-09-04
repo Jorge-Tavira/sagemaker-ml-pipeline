@@ -14,6 +14,16 @@ I'm specializing in building and deploying scalable, responsible, and production
 **AWS Cloud for AI:** Mastering services like Bedrock, SageMaker, Lambda, and others to create end-to-end ML pipelines.
 
 ---
+
+## 🛠️ Technical Stack
+
+**Currently Mastering in my AWS Nanodegree:**
+*   **Languages:** `Python`
+*   **AI Frameworks & Libraries:** `PyTorch`, `TensorFlow`, `Scikit-learn`, `Hugging Face Transformers`
+*   **Generative AI Tools:** `Amazon Bedrock` (Claude, Titan), `LangChain`, `LlamaIndex`
+*   **AWS Cloud Services:** `Amazon SageMaker`, `AWS Lambda`, `Amazon S3`, `AWS IAM`
+*   **Dev & Ops:** `Git`, `Docker`
+---
 ## 🚀 Main Projects (AWS Nanodegree)  
 
 🔍 **RAG-based Search System**  
